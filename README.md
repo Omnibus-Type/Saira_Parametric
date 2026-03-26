@@ -1,4 +1,4 @@
-# Saira_Parametric
+# Saira Parametric
 Fully parametric version of Saira made with AVAR2 data (work in progress)
 
 This project explores the use of parametric axes and AVAR2 technology in an updated version of the Saira typeface. The first stage focuses on a limited set of glyphs (uppercase, lowercase, numbers, and basic punctuation within the GF Latin Kernel) as a proof of concept to estimate the technical requirements and production effort needed to adapt it to the full Saira character set. The original masters were designed by Héctor Gatti. The character sets were later completed by the Omnibus-Type Team.
