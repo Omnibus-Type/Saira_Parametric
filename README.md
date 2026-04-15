@@ -5,5 +5,5 @@ This project explores the use of parametric axes and AVAR2 technology in an upda
 
 Omnibus-Type Team SIL Open Font License 1.1
 
-![Sample of Grenze Family.](docs/SairaParametric-01.png "Saira AVAR 2")
-![Sample of Grenze Family.](docs/SairaParametric-02.png "Saira AVAR 2")
+![Sample of Saira Parametric.](docs/SairaParametric-01.png "Saira Parametric")
+![Sample of Saira VF / Saira Parametric.](docs/SairaParametric-02.png "Saira VF / Saira Parametric")
