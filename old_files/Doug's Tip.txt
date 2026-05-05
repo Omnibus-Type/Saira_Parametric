@@ -1,0 +1,3 @@
+Tip de Doug:
+El atajo rápido de Mac para «invertir pantalla» es una excelente manera de convertir rápidamente la pantalla en blanco y negro a blanco y negro, y lo uso constantemente: https://discussions.apple.com/thread/5780779?sortBy=rank
+Una vez activado, puedes usar Ctrl + Opción + Comando + 8 para hacerlo en un segundo.
