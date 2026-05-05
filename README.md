@@ -5,5 +5,4 @@ This project explores the use of parametric axes and AVAR2 technology in an upda
 
 Omnibus-Type Team SIL Open Font License 1.1
 
-![Sample of Saira Parametric.](docs/SairaParametric-5-01.png "Saira Parametric")
-![Sample of Saira VF / Saira Parametric.](docs/SairaParametric-5-02.png "Saira VF / Saira Parametric")
+![Sample of Saira Parametric.](docs/04.png "New Cross Axis Mapping")
