@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="537.63043"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="35.674" y="265.978" type="line"/>
+      <point x="375.413" y="391.761" type="line"/>
+      <point x="375.413" y="458.913" type="line"/>
+      <point x="35.674" y="333.13" type="line"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>3</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

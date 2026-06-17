@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="816"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="585" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="634" y="585" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="716" y="688" type="line"/>
+      <point x="585" y="688" type="line"/>
+      <point x="408" y="105" type="line"/>
+      <point x="231" y="688" type="line"/>
+      <point x="100" y="688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>9</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

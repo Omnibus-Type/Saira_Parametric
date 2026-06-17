@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="282"/>
+  <unicode hex="0069"/>
+  <anchor x="141" y="0" name="bottom"/>
+  <anchor x="182" y="0" name="ogonek"/>
+  <anchor x="141" y="716" name="top"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="510" type="line"/>
+      <point x="100" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="628" type="line"/>
+      <point x="185" y="628" type="line"/>
+      <point x="185" y="716" type="line"/>
+      <point x="97" y="716" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

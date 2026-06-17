@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialog" format="2">
+  <advance width="805"/>
+  <outline>
+    <contour>
+      <point x="306" y="-212" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="746" y="688" type="line"/>
+      <point x="59" y="688" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="306" y="60" type="line"/>
+      <point x="119" y="60" type="line"/>
+      <point x="119" y="628" type="line"/>
+      <point x="686" y="628" type="line"/>
+      <point x="686" y="60" type="line"/>
+      <point x="494" y="60" type="line"/>
+      <point x="306" y="-127" type="line"/>
+    </contour>
+  </outline>
+</glyph>

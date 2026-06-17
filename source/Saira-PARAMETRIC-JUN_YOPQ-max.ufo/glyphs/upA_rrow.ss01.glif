@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upArrow.ss01" format="2">
+  <advance width="345"/>
+  <outline>
+    <contour>
+      <point x="30" y="231" type="line"/>
+      <point x="315" y="231" type="line"/>
+      <point x="173" y="516" type="line"/>
+    </contour>
+  </outline>
+</glyph>

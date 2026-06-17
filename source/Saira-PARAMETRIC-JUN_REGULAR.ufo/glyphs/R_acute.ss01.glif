@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Racute.ss01" format="2">
+  <advance width="687"/>
+  <outline>
+    <component base="R.ss01"/>
+    <component base="acutecomb.case" xOffset="290" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="731.47826"/>
+  <unicode hex="019D"/>
+  <anchor x="365.739" y="0" name="bottom"/>
+  <anchor x="365.739" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="4.304" y="-200" type="line"/>
+      <point x="138.065" y="-200"/>
+      <point x="182.609" y="-190.109"/>
+      <point x="182.609" y="-62.783" type="curve" smooth="yes"/>
+      <point x="182.609" y="537.217" type="line"/>
+      <point x="186.609" y="537.217" type="line"/>
+      <point x="548.87" y="0" type="line"/>
+      <point x="631.696" y="0" type="line"/>
+      <point x="631.696" y="688" type="line"/>
+      <point x="548.87" y="688" type="line"/>
+      <point x="548.87" y="160.565" type="line"/>
+      <point x="544.87" y="160.565" type="line"/>
+      <point x="188.043" y="688" type="line"/>
+      <point x="99.783" y="688" type="line"/>
+      <point x="99.783" y="-80.935" type="line" smooth="yes"/>
+      <point x="99.783" y="-123.761"/>
+      <point x="92.413" y="-136.304"/>
+      <point x="4.304" y="-136.304" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

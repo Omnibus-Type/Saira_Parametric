@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fl" format="2">
+  <advance width="606.28261"/>
+  <unicode hex="FB02"/>
+  <anchor x="303.141" y="0" name="caret_1"/>
+  <outline>
+    <contour>
+      <point x="129.848" y="0" type="line"/>
+      <point x="211.043" y="0" type="line"/>
+      <point x="211.043" y="441.043" type="line"/>
+      <point x="342.696" y="441.043" type="line"/>
+      <point x="342.696" y="510" type="line"/>
+      <point x="211.043" y="510" type="line"/>
+      <point x="211.043" y="604.913" type="line" smooth="yes"/>
+      <point x="211.043" y="668.739"/>
+      <point x="233.435" y="679.848"/>
+      <point x="342.696" y="679.848" type="curve"/>
+      <point x="342.696" y="742.457" type="line"/>
+      <point x="186.043" y="742.457"/>
+      <point x="129.848" y="733.174"/>
+      <point x="129.848" y="590.761" type="curve" smooth="yes"/>
+      <point x="129.848" y="510" type="line"/>
+      <point x="26.196" y="510" type="line"/>
+      <point x="26.196" y="441.043" type="line"/>
+      <point x="129.848" y="441.043" type="line"/>
+    </contour>
+    <contour>
+      <point x="438.674" y="0" type="line"/>
+      <point x="519.87" y="0" type="line"/>
+      <point x="519.87" y="743" type="line"/>
+      <point x="438.674" y="743" type="line"/>
+    </contour>
+  </outline>
+</glyph>
