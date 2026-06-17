@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="714"/>
+  <unicode hex="0048"/>
+  <anchor x="357" y="0" name="bottom"/>
+  <anchor x="357" y="550" name="center"/>
+  <anchor x="357" y="688" name="top"/>
+  <anchor x="20" y="688" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="347" type="line"/>
+      <point x="145" y="310" type="line"/>
+      <point x="569" y="310" type="line"/>
+      <point x="532" y="347" type="line"/>
+      <point x="532" y="0" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="614" y="688" type="line"/>
+      <point x="532" y="688" type="line"/>
+      <point x="532" y="347" type="line"/>
+      <point x="569" y="384" type="line"/>
+      <point x="145" y="384" type="line"/>
+      <point x="182" y="347" type="line"/>
+      <point x="182" y="688" type="line"/>
+      <point x="100" y="688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>9</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

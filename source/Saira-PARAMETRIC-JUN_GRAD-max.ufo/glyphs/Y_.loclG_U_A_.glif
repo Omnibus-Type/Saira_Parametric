@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.loclGUA" format="2">
+  <advance width="609.5"/>
+  <anchor x="303.978" y="0" name="bottom"/>
+  <anchor x="303.978" y="688" name="top"/>
+  <anchor x="42.283" y="688" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="304.978" y="196.565" type="curve" smooth="yes"/>
+      <point x="541.152" y="196.565"/>
+      <point x="567.217" y="256.935"/>
+      <point x="567.217" y="505.087" type="curve" smooth="yes"/>
+      <point x="567.217" y="688" type="line"/>
+      <point x="481.217" y="688" type="line"/>
+      <point x="481.217" y="471.826" type="line" smooth="yes"/>
+      <point x="481.217" y="304.739"/>
+      <point x="472.565" y="270.783"/>
+      <point x="304.978" y="270.783" type="curve" smooth="yes"/>
+      <point x="137.391" y="270.783"/>
+      <point x="128.283" y="304.739"/>
+      <point x="128.283" y="471.826" type="curve" smooth="yes"/>
+      <point x="128.283" y="688" type="line"/>
+      <point x="42.283" y="688" type="line"/>
+      <point x="42.283" y="505.087" type="line" smooth="yes"/>
+      <point x="42.283" y="256.935"/>
+      <point x="68.804" y="196.565"/>
+    </contour>
+    <contour>
+      <point x="260.891" y="0" type="line"/>
+      <point x="346.891" y="0" type="line"/>
+      <point x="346.891" y="234.674" type="line"/>
+      <point x="260.891" y="234.674" type="line"/>
+    </contour>
+  </outline>
+</glyph>

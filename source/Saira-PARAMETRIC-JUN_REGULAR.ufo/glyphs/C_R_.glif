@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CR" format="2">
+  <advance width="234.86956"/>
+  <unicode hex="000D"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>6</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

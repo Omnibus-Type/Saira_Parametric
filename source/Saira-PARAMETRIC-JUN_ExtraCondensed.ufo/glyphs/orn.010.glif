@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="orn.010" format="2">
+  <advance width="794"/>
+  <outline>
+    <contour>
+      <point x="397" y="0" type="curve" smooth="yes"/>
+      <point x="749" y="0" type="line"/>
+      <point x="749" y="348" type="line" smooth="yes"/>
+      <point x="749" y="553"/>
+      <point x="604" y="696"/>
+      <point x="397" y="696" type="curve" smooth="yes"/>
+      <point x="190" y="696"/>
+      <point x="45" y="553"/>
+      <point x="45" y="348" type="curve" smooth="yes"/>
+      <point x="45" y="144"/>
+      <point x="190" y="0"/>
+    </contour>
+  </outline>
+</glyph>

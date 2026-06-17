@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="580.91304"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="55.239" y="307.413" type="line"/>
+      <point x="525.674" y="307.413" type="line"/>
+      <point x="525.674" y="375.283" type="line"/>
+      <point x="55.239" y="375.283" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>3</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

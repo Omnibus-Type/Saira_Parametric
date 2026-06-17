@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="421.6087"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="210.804" y="313.913" type="curve" smooth="yes"/>
+      <point x="365.326" y="313.913"/>
+      <point x="374.326" y="356.957"/>
+      <point x="374.326" y="504" type="curve" smooth="yes"/>
+      <point x="374.326" y="650.587"/>
+      <point x="365.326" y="696"/>
+      <point x="210.804" y="696" type="curve" smooth="yes"/>
+      <point x="56.283" y="696"/>
+      <point x="47.283" y="650.587"/>
+      <point x="47.283" y="504" type="curve" smooth="yes"/>
+      <point x="47.283" y="356.957"/>
+      <point x="56.283" y="313.913"/>
+    </contour>
+    <contour>
+      <point x="210.804" y="367.913" type="curve" smooth="yes"/>
+      <point x="112.348" y="367.913"/>
+      <point x="112.348" y="386.391"/>
+      <point x="112.348" y="504" type="curve" smooth="yes"/>
+      <point x="112.348" y="620.609"/>
+      <point x="112.348" y="641.087"/>
+      <point x="210.804" y="641.087" type="curve" smooth="yes"/>
+      <point x="309.261" y="641.087"/>
+      <point x="309.261" y="620.609"/>
+      <point x="309.261" y="504" type="curve" smooth="yes"/>
+      <point x="309.261" y="386.391"/>
+      <point x="309.261" y="367.913"/>
+    </contour>
+  </outline>
+</glyph>

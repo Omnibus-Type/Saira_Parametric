@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="153"/>
+  <unicode hex="201A"/>
+  <anchor x="0" y="0" name="#entry"/>
+  <anchor x="113.333" y="0" name="#exit"/>
+  <outline>
+    <component base="comma"/>
+  </outline>
+</glyph>

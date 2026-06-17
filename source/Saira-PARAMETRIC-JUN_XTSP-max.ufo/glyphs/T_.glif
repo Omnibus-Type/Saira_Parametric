@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="532"/>
+  <unicode hex="0054"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="271" y="344" name="center"/>
+  <anchor x="271" y="688" name="top"/>
+  <outline>
+    <contour>
+      <point x="225" y="0" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="307" y="649" type="line"/>
+      <point x="272" y="612" type="line"/>
+      <point x="517" y="612" type="line"/>
+      <point x="517" y="688" type="line"/>
+      <point x="15" y="688" type="line"/>
+      <point x="15" y="612" type="line"/>
+      <point x="260" y="612" type="line"/>
+      <point x="225" y="649" type="line"/>
+    </contour>
+  </outline>
+</glyph>
