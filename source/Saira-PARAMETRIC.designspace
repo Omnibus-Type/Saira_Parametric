@@ -13,7 +13,7 @@
     <mappings description="24-DIAGONAL BLACK">
       <mapping description="">
         <input>
-          <dimension name="weight" xvalue="900"/>
+          <dimension name="Weight" xvalue="900"/>
           <dimension name="Width" xvalue="25"/>
         </input>
         <output>
@@ -27,7 +27,7 @@
     <mappings description="24-THIN-CONDENSED">
       <mapping description="">
         <input>
-          <dimension name="weight" xvalue="100"/>
+          <dimension name="Weight" xvalue="100"/>
           <dimension name="Width" xvalue="25"/>
         </input>
         <output>
@@ -41,7 +41,7 @@
         <input>
           <dimension name="XTRA" xvalue="25"/>
           <dimension name="Optical size" xvalue="144"/>
-          <dimension name="weight" xvalue="100"/>
+          <dimension name="Weight" xvalue="100"/>
         </input>
         <output>
           <dimension name="XTSP" xvalue="85"/>
@@ -54,7 +54,7 @@
     <mappings>
       <mapping description="THIN">
         <input>
-          <dimension name="weight" xvalue="100"/>
+          <dimension name="Weight" xvalue="100"/>
         </input>
         <output>
           <dimension name="XTRA" xvalue="105"/>
@@ -66,7 +66,7 @@
     <mappings description="OPSZ-144-BLACK">
       <mapping>
         <input>
-          <dimension name="weight" xvalue="900"/>
+          <dimension name="Weight" xvalue="900"/>
           <dimension name="Optical size" xvalue="144"/>
         </input>
         <output>
@@ -81,7 +81,7 @@
     <mappings description="OPSZ-8-BLACK">
       <mapping>
         <input>
-          <dimension name="weight" xvalue="900"/>
+          <dimension name="Weight" xvalue="900"/>
           <dimension name="Optical size" xvalue="8"/>
         </input>
         <output>
@@ -95,7 +95,7 @@
     <mappings description="OPSZ-144-REGULAR">
       <mapping>
         <input>
-          <dimension name="weight" xvalue="400"/>
+          <dimension name="Weight" xvalue="400"/>
           <dimension name="Optical size" xvalue="144"/>
           <dimension name="XOPQ" xvalue="400"/>
           <dimension name="YOPQ" xvalue="400"/>
@@ -108,7 +108,7 @@
     <mappings description="BLACK">
       <mapping>
         <input>
-          <dimension name="weight" xvalue="900"/>
+          <dimension name="Weight" xvalue="900"/>
         </input>
         <output>
           <dimension name="XOPQ" xvalue="860"/>
