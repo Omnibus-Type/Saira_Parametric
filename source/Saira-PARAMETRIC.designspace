@@ -10,8 +10,38 @@
     <axis tag="YOPQ" name="YOPQ" minimum="100" maximum="900" default="400" hidden="1"/>
     <axis tag="XTUD" name="XTUD" minimum="100" maximum="200" default="100" hidden="1"/>
     <axis tag="XTSP" name="XTSP" minimum="25" maximum="150" default="100" hidden="1"/>
-    <mappings description="24-DIAGONAL BLACK">
-      <mapping description="">
+    <mappings description="UniVars">
+      <mapping description="Wght Min">
+        <input>
+          <dimension name="Weight" xvalue="100"/>
+        </input>
+        <output>
+          <dimension name="XTRA" xvalue="105"/>
+          <dimension name="XOPQ" xvalue="150"/>
+          <dimension name="YOPQ" xvalue="150"/>
+        </output>
+      </mapping>
+      <mapping description="Wght Max">
+        <input>
+          <dimension name="Weight" xvalue="900"/>
+        </input>
+        <output>
+          <dimension name="XOPQ" xvalue="860"/>
+          <dimension name="YOPQ" xvalue="860"/>
+          <dimension name="Width" xvalue="40"/>
+        </output>
+      </mapping>
+      <mapping description="OpSz Max">
+        <input>
+          <dimension name="Optical size" xvalue="144"/>
+        </input>
+        <output>
+          <dimension name="XTSP" xvalue="65"/>
+        </output>
+      </mapping>
+    </mappings>
+    <mappings description="DuoVars">
+      <mapping description="Wght Max Wdth Min">
         <input>
           <dimension name="Weight" xvalue="900"/>
           <dimension name="Width" xvalue="25"/>
@@ -23,9 +53,7 @@
           <dimension name="XTSP" xvalue="125"/>
         </output>
       </mapping>
-    </mappings>
-    <mappings description="24-THIN-CONDENSED">
-      <mapping description="">
+      <mapping description="Wght Min Wdth Min">
         <input>
           <dimension name="Weight" xvalue="100"/>
           <dimension name="Width" xvalue="25"/>
@@ -35,9 +63,7 @@
           <dimension name="YOPQ" xvalue="180"/>
         </output>
       </mapping>
-    </mappings>
-    <mappings description="OPSZ-144-THIN CONDENSED">
-      <mapping description="">
+      <mapping description="OpSz Max Wght Min">
         <input>
           <dimension name="Optical size" xvalue="144"/>
           <dimension name="Weight" xvalue="100"/>
@@ -49,21 +75,7 @@
           <dimension name="YOPQ" xvalue="150"/>
         </output>
       </mapping>
-    </mappings>
-    <mappings>
-      <mapping description="THIN">
-        <input>
-          <dimension name="Weight" xvalue="100"/>
-        </input>
-        <output>
-          <dimension name="XTRA" xvalue="105"/>
-          <dimension name="XOPQ" xvalue="150"/>
-          <dimension name="YOPQ" xvalue="150"/>
-        </output>
-      </mapping>
-    </mappings>
-    <mappings description="OPSZ-144-BLACK">
-      <mapping>
+      <mapping description="OpSz Max Wght Max">
         <input>
           <dimension name="Weight" xvalue="900"/>
           <dimension name="Optical size" xvalue="144"/>
@@ -76,9 +88,7 @@
           <dimension name="XTSP" xvalue="120"/>
         </output>
       </mapping>
-    </mappings>
-    <mappings description="OPSZ-8-BLACK">
-      <mapping>
+      <mapping description="OpSz Min Wght Max">
         <input>
           <dimension name="Weight" xvalue="900"/>
           <dimension name="Optical size" xvalue="8"/>
@@ -88,29 +98,6 @@
           <dimension name="XOPQ" xvalue="800"/>
           <dimension name="YOPQ" xvalue="800"/>
           <dimension name="XTUD" xvalue="200"/>
-        </output>
-      </mapping>
-    </mappings>
-    <mappings description="OPSZ-144-REGULAR">
-      <mapping>
-        <input>
-          <dimension name="Weight" xvalue="400"/>
-          <dimension name="Optical size" xvalue="144"/>
-        </input>
-        <output>
-          <dimension name="XTSP" xvalue="65"/>
-        </output>
-      </mapping>
-    </mappings>
-    <mappings description="BLACK">
-      <mapping>
-        <input>
-          <dimension name="Weight" xvalue="900"/>
-        </input>
-        <output>
-          <dimension name="XOPQ" xvalue="860"/>
-          <dimension name="YOPQ" xvalue="860"/>
-          <dimension name="Width" xvalue="40"/>
         </output>
       </mapping>
     </mappings>
