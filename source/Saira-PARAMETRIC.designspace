@@ -1,16 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.1">
   <axes>
-    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400">
-      <map input="100" output="100"/>
-      <map input="400" output="400"/>
-      <map input="900" output="900"/>
-    </axis>
+    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="24"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
     <axis tag="wdth" name="Width" minimum="25" maximum="150" default="100"/>
     <axis tag="XTRA" name="XTRA" minimum="25" maximum="125" default="100" hidden="1"/>
     <axis tag="XOPQ" name="XOPQ" minimum="100" maximum="900" default="400" hidden="1"/>
     <axis tag="YOPQ" name="YOPQ" minimum="100" maximum="900" default="400" hidden="1"/>
-    <axis tag="opsz" name="Optical size" minimum="8" maximum="144" default="24"/>
     <axis tag="XTUD" name="XTUD" minimum="100" maximum="200" default="100" hidden="1"/>
     <axis tag="XTSP" name="XTSP" minimum="25" maximum="150" default="100" hidden="1"/>
     <axis tag="GRAD" name="GRADE" minimum="-100" maximum="150" default="100"/>
@@ -125,12 +121,12 @@
   <sources>
     <source filename="Saira-PARAMETRIC_THIN CND 24.ufo" name="56db601d" familyname="Saira" stylename="THIN CND 24">
       <location>
-        <dimension name="weight" xvalue="100"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="25"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="180"/>
         <dimension name="YOPQ" xvalue="180"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -138,12 +134,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_ExtraCondensed.ufo" name="EA8F5C71-CC1B-4957-887E-A94E6B0D96E2" familyname="Saira" stylename="ExtraCondensed">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="25"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -151,12 +147,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTRA-min.ufo" name="m010" familyname="Saira" stylename="XTRA-min">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="25"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -164,12 +160,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XOPQ-min.ufo" name="m012" familyname="Saira" stylename="XOPQ-min">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="100"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -177,12 +173,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_YOPQ-min.ufo" name="m014" familyname="Saira" stylename="YOPQ-min">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="100"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -190,12 +186,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_OPSZ-min.ufo" name="m016" familyname="Saira" stylename="OPSZ-min">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="8"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="8"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -203,12 +199,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTSP-min.ufo" name="m019" familyname="Saira" stylename="XTSP-min">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="25"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -216,12 +212,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_GRAD-min.ufo" name="69A35218-7AC6-454E-8E7A-26EE1038ADF1" familyname="Saira" stylename="GRAD-min">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="-100"/>
@@ -229,12 +225,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_REGULAR.ufo" name="m009" familyname="Saira" stylename="REGULAR">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -242,12 +238,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_GRAD-max.ufo" name="CCF104DE-33C0-4C13-B737-8BB983965605" familyname="Saira" stylename="GRAD-max">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="150"/>
@@ -255,12 +251,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTSP-max.ufo" name="m020" familyname="Saira" stylename="XTSP-max">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="150"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -268,12 +264,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTUD.ufo" name="m018" familyname="Saira" stylename="XTUD">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="200"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -281,12 +277,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_OPSZ-max.ufo" name="m017" familyname="Saira" stylename="OPSZ-max">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="144"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="144"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -294,12 +290,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_YOPQ-max.ufo" name="m015" familyname="Saira" stylename="YOPQ-max">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="900"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -307,12 +303,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XOPQ-max.ufo" name="m013" familyname="Saira" stylename="XOPQ-max">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="900"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -320,12 +316,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTRA-max.ufo" name="m011" familyname="Saira" stylename="XTRA-max">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="100"/>
         <dimension name="XTRA" xvalue="125"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
@@ -333,12 +329,12 @@
     </source>
     <source filename="Saira-PARAMETRIC-JUN_ExtraExpanded.ufo" name="00C559A9-DDAD-466E-974B-63931DEF38EB" familyname="Saira" stylename="ExtraExpanded">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
         <dimension name="Width" xvalue="150"/>
         <dimension name="XTRA" xvalue="100"/>
         <dimension name="XOPQ" xvalue="400"/>
         <dimension name="YOPQ" xvalue="400"/>
-        <dimension name="Optical size" xvalue="24"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
         <dimension name="GRADE" xvalue="100"/>
