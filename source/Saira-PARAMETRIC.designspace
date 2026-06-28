@@ -30,6 +30,7 @@
           <dimension name="XOPQ" xvalue="860"/>
           <dimension name="YOPQ" xvalue="860"/>
           <dimension name="Width" xvalue="40"/>
+          <dimension name="XTSP" xvalue="85"/>
         </output>
       </mapping>
       <mapping description="OpSz Min 8">
