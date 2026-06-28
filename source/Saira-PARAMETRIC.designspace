@@ -140,8 +140,14 @@
         </output>
       </mapping>
       <mapping description="Grade Min">
-        <input/>
-        <output/>
+        <input>
+          <dimension name="GRADE" xvalue="-100"/>
+        </input>
+        <output>
+          <dimension name="XOPQ" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="100"/>
+          <dimension name="XTRA" xvalue="123.75"/>
+        </output>
       </mapping>
     </mappings>
   </axes>
