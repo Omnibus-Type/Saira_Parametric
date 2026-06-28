@@ -31,6 +31,7 @@
           <dimension name="YOPQ" xvalue="860"/>
           <dimension name="Width" xvalue="40"/>
           <dimension name="XTSP" xvalue="85"/>
+          <dimension name="XTWS" xvalue="160"/>
         </output>
       </mapping>
       <mapping description="OpSz Min 8">
