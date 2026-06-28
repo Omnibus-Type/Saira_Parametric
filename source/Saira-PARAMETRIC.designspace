@@ -32,7 +32,7 @@
           <dimension name="Width" xvalue="40"/>
         </output>
       </mapping>
-      <mapping description="OpSz Min">
+      <mapping description="OpSz Min 8">
         <input>
           <dimension name="Optical size" xvalue="8"/>
         </input>
@@ -42,7 +42,17 @@
           <dimension name="XTRA" xvalue="110"/>
         </output>
       </mapping>
-      <mapping description="OpSz Max">
+      <mapping description="OpSz 10">
+        <input>
+          <dimension name="Optical size" xvalue="10"/>
+        </input>
+        <output>
+          <dimension name="XTRA" xvalue="105"/>
+          <dimension name="XTSP" xvalue="125"/>
+          <dimension name="XTWS" xvalue="270"/>
+        </output>
+      </mapping>
+      <mapping description="OpSz Max 144">
         <input>
           <dimension name="Optical size" xvalue="144"/>
         </input>
