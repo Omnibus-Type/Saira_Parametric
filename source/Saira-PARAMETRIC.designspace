@@ -18,9 +18,9 @@
         </input>
         <output>
           <dimension name="XTRA" xvalue="105"/>
-          <dimension name="XOPQ" xvalue="150"/>
-          <dimension name="YOPQ" xvalue="150"/>
-          <dimension name="XTSP" xvalue="60"/>
+          <dimension name="XOPQ" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="100"/>
+          <dimension name="XTSP" xvalue="80"/>
           <dimension name="XTWS" xvalue="160"/>
         </output>
       </mapping>
@@ -29,9 +29,8 @@
           <dimension name="Weight" xvalue="900"/>
         </input>
         <output>
-          <dimension name="XOPQ" xvalue="860"/>
-          <dimension name="YOPQ" xvalue="860"/>
-          <dimension name="Width" xvalue="40"/>
+          <dimension name="XOPQ" xvalue="900"/>
+          <dimension name="YOPQ" xvalue="900"/>
           <dimension name="XTSP" xvalue="85"/>
           <dimension name="XTWS" xvalue="160"/>
         </output>
