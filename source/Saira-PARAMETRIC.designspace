@@ -36,6 +36,28 @@
           <dimension name="XTWS" xvalue="160"/>
         </output>
       </mapping>
+      <mapping description="Wdth Min">
+        <input>
+          <dimension name="Width" xvalue="25"/>
+        </input>
+        <output>
+          <dimension name="XTRA" xvalue="25"/>
+          <dimension name="XTSP" xvalue="75"/>
+          <dimension name="XTWS" xvalue="160"/>
+          <dimension name="XOPQ" xvalue="240"/>
+          <dimension name="YOPQ" xvalue="210"/>
+        </output>
+      </mapping>
+      <mapping description="Wdth Max">
+        <input>
+          <dimension name="Width" xvalue="150"/>
+        </input>
+        <output>
+          <dimension name="XTRA" xvalue="125"/>
+          <dimension name="XTSP" xvalue="150"/>
+          <dimension name="XTWS" xvalue="350"/>
+        </output>
+      </mapping>
       <mapping description="OpSz Min 8">
         <input>
           <dimension name="Optical size" xvalue="8"/>
