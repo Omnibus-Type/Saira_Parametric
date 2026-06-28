@@ -10,7 +10,7 @@
     <axis tag="YOPQ" name="YOPQ" minimum="100" maximum="900" default="400" hidden="1"/>
     <axis tag="XTUD" name="XTUD" minimum="100" maximum="200" default="100" hidden="1"/>
     <axis tag="XTSP" name="XTSP" minimum="25" maximum="150" default="100" hidden="1"/>
-    <axis tag="XTWS" name="XTWS" minimum="160" maximum="300" default="235" hidden="1"/>
+    <axis tag="XTWS" name="XTWS" minimum="160" maximum="350" default="235" hidden="1"/>
     <mappings description="UniVars">
       <mapping description="Wght Min">
         <input>
@@ -58,6 +58,7 @@
         </input>
         <output>
           <dimension name="XTSP" xvalue="65"/>
+          <dimension name="XTRA" xvalue="90"/>
         </output>
       </mapping>
     </mappings>
