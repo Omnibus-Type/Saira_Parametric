@@ -20,6 +20,8 @@
           <dimension name="XTRA" xvalue="105"/>
           <dimension name="XOPQ" xvalue="150"/>
           <dimension name="YOPQ" xvalue="150"/>
+          <dimension name="XTSP" xvalue="60"/>
+          <dimension name="XTWS" xvalue="160"/>
         </output>
       </mapping>
       <mapping description="Wght Max">
