@@ -128,6 +128,22 @@
         </output>
       </mapping>
     </mappings>
+    <mappings description="Univars">
+      <mapping description="Grade Max">
+        <input>
+          <dimension name="GRADE" xvalue="150"/>
+        </input>
+        <output>
+          <dimension name="XTRA" xvalue="25"/>
+          <dimension name="XOPQ" xvalue="882.75"/>
+          <dimension name="YOPQ" xvalue="889.9"/>
+        </output>
+      </mapping>
+      <mapping description="Grade Min">
+        <input/>
+        <output/>
+      </mapping>
+    </mappings>
   </axes>
   <sources>
     <source filename="Saira-PARAMETRIC-JUN_XTRA-min.ufo" name="m010" familyname="Saira" stylename="XTRA-min">
