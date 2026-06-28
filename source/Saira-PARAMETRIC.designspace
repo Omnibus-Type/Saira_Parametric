@@ -67,6 +67,28 @@
         </output>
       </mapping>
     </mappings>
+    <mappings description="Univars">
+      <mapping description="Grade Min">
+        <input>
+          <dimension name="GRADE" xvalue="-100"/>
+        </input>
+        <output>
+          <dimension name="XOPQ" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="100"/>
+          <dimension name="XTRA" xvalue="123.75"/>
+        </output>
+      </mapping>
+      <mapping description="Grade Max">
+        <input>
+          <dimension name="GRADE" xvalue="150"/>
+        </input>
+        <output>
+          <dimension name="XTRA" xvalue="25"/>
+          <dimension name="XOPQ" xvalue="882.75"/>
+          <dimension name="YOPQ" xvalue="889.9"/>
+        </output>
+      </mapping>
+    </mappings>
     <mappings description="DuoVars">
       <mapping description="Wght Max Wdth Min">
         <input>
@@ -125,28 +147,6 @@
           <dimension name="XOPQ" xvalue="800"/>
           <dimension name="YOPQ" xvalue="800"/>
           <dimension name="XTUD" xvalue="200"/>
-        </output>
-      </mapping>
-    </mappings>
-    <mappings description="Univars">
-      <mapping description="Grade Max">
-        <input>
-          <dimension name="GRADE" xvalue="150"/>
-        </input>
-        <output>
-          <dimension name="XTRA" xvalue="25"/>
-          <dimension name="XOPQ" xvalue="882.75"/>
-          <dimension name="YOPQ" xvalue="889.9"/>
-        </output>
-      </mapping>
-      <mapping description="Grade Min">
-        <input>
-          <dimension name="GRADE" xvalue="-100"/>
-        </input>
-        <output>
-          <dimension name="XOPQ" xvalue="100"/>
-          <dimension name="YOPQ" xvalue="100"/>
-          <dimension name="XTRA" xvalue="123.75"/>
         </output>
       </mapping>
     </mappings>
