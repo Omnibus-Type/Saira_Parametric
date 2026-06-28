@@ -32,6 +32,16 @@
           <dimension name="Width" xvalue="40"/>
         </output>
       </mapping>
+      <mapping description="OpSz Min">
+        <input>
+          <dimension name="Optical size" xvalue="8"/>
+        </input>
+        <output>
+          <dimension name="XTSP" xvalue="150"/>
+          <dimension name="XTWS" xvalue="300"/>
+          <dimension name="XTRA" xvalue="110"/>
+        </output>
+      </mapping>
       <mapping description="OpSz Max">
         <input>
           <dimension name="Optical size" xvalue="144"/>
