@@ -115,7 +115,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XOPQ-min.ufo" name="m012" familyname="Saira" stylename="XOPQ-min">
@@ -129,7 +129,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_YOPQ-min.ufo" name="m014" familyname="Saira" stylename="YOPQ-min">
@@ -143,7 +143,7 @@
         <dimension name="YOPQ" xvalue="100"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTSP-min.ufo" name="m019" familyname="Saira" stylename="XTSP-min">
@@ -157,7 +157,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="25"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_REGULAR.ufo" name="m009" familyname="Saira" stylename="REGULAR">
@@ -171,7 +171,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTSP-max.ufo" name="m020" familyname="Saira" stylename="XTSP-max">
@@ -185,7 +185,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="150"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTUD.ufo" name="m018" familyname="Saira" stylename="XTUD">
@@ -199,7 +199,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="200"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_YOPQ-max.ufo" name="m015" familyname="Saira" stylename="YOPQ-max">
@@ -213,7 +213,7 @@
         <dimension name="YOPQ" xvalue="900"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XOPQ-max.ufo" name="m013" familyname="Saira" stylename="XOPQ-max">
@@ -227,7 +227,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
     <source filename="Saira-PARAMETRIC-JUN_XTRA-max.ufo" name="m011" familyname="Saira" stylename="XTRA-max">
@@ -241,7 +241,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="0"/>
+        <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
   </sources>
