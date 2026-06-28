@@ -244,5 +244,33 @@
         <dimension name="XTWS" xvalue="235"/>
       </location>
     </source>
+    <source filename="Saira-PARAMETRIC_XTWS-min.ufo" name="::fontra010" familyname="Saira" stylename="XTWS-min">
+      <location>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="GRADE" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="XTRA" xvalue="100"/>
+        <dimension name="XOPQ" xvalue="400"/>
+        <dimension name="YOPQ" xvalue="400"/>
+        <dimension name="XTUD" xvalue="100"/>
+        <dimension name="XTSP" xvalue="100"/>
+        <dimension name="XTWS" xvalue="160"/>
+      </location>
+    </source>
+    <source filename="Saira-PARAMETRIC_XTWS-max.ufo" name="::fontra011" familyname="Saira" stylename="XTWS-max">
+      <location>
+        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="GRADE" xvalue="100"/>
+        <dimension name="Width" xvalue="100"/>
+        <dimension name="XTRA" xvalue="100"/>
+        <dimension name="XOPQ" xvalue="400"/>
+        <dimension name="YOPQ" xvalue="400"/>
+        <dimension name="XTUD" xvalue="100"/>
+        <dimension name="XTSP" xvalue="100"/>
+        <dimension name="XTWS" xvalue="300"/>
+      </location>
+    </source>
   </sources>
 </designspace>
