@@ -38,7 +38,7 @@
         </input>
         <output>
           <dimension name="XTSP" xvalue="150"/>
-          <dimension name="XTWS" xvalue="300"/>
+          <dimension name="XTWS" xvalue="350"/>
           <dimension name="XTRA" xvalue="110"/>
         </output>
       </mapping>
@@ -290,7 +290,7 @@
         <dimension name="YOPQ" xvalue="400"/>
         <dimension name="XTUD" xvalue="100"/>
         <dimension name="XTSP" xvalue="100"/>
-        <dimension name="XTWS" xvalue="300"/>
+        <dimension name="XTWS" xvalue="350"/>
       </location>
     </source>
   </sources>
