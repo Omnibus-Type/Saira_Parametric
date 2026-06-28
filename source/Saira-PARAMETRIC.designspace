@@ -59,6 +59,7 @@
         <output>
           <dimension name="XTSP" xvalue="65"/>
           <dimension name="XTRA" xvalue="90"/>
+          <dimension name="XTWS" xvalue="160"/>
         </output>
       </mapping>
     </mappings>
