@@ -17,7 +17,7 @@
           <dimension name="Weight" xvalue="100"/>
         </input>
         <output>
-          <dimension name="XTRA" xvalue="105"/>
+          <dimension name="XTRA" xvalue="64"/>
           <dimension name="XOPQ" xvalue="100"/>
           <dimension name="YOPQ" xvalue="100"/>
           <dimension name="XTSP" xvalue="80"/>
