@@ -135,6 +135,18 @@
           <dimension name="XTSP" xvalue="95"/>
         </output>
       </mapping>
+      <mapping description="Wght Min Wdth Max">
+        <input>
+          <dimension name="Weight" xvalue="100"/>
+          <dimension name="Width" xvalue="150"/>
+        </input>
+        <output>
+          <dimension name="XTRA" xvalue="113"/>
+          <dimension name="XOPQ" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="100"/>
+          <dimension name="XTSP" xvalue="135"/>
+        </output>
+      </mapping>
       <mapping description="Wght Min Wdth Min">
         <input>
           <dimension name="Weight" xvalue="100"/>
