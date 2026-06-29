@@ -121,6 +121,7 @@
           <dimension name="YOPQ" xvalue="800"/>
           <dimension name="XTRA" xvalue="25"/>
           <dimension name="XTSP" xvalue="80"/>
+          <dimension name="XTUD" xvalue="100"/>
         </output>
       </mapping>
       <mapping description="Wght Max Wdth Max">
@@ -158,6 +159,7 @@
           <dimension name="XTRA" xvalue="25"/>
           <dimension name="XTWS" xvalue="160"/>
           <dimension name="XTSP" xvalue="70"/>
+          <dimension name="XTUD" xvalue="100"/>
         </output>
       </mapping>
       <mapping description="OpSz Max Wght Min">
