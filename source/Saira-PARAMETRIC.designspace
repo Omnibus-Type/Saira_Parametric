@@ -129,8 +129,11 @@
           <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-          <dimension name="XOPQ" xvalue="180"/>
-          <dimension name="YOPQ" xvalue="180"/>
+          <dimension name="XOPQ" xvalue="100"/>
+          <dimension name="YOPQ" xvalue="100"/>
+          <dimension name="XTRA" xvalue="25"/>
+          <dimension name="XTWS" xvalue="160"/>
+          <dimension name="XTSP" xvalue="70"/>
         </output>
       </mapping>
       <mapping description="OpSz Max Wght Min">
