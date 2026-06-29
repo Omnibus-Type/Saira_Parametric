@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="p.001" format="2">
-  <advance width="789"/>
-  <anchor x="403.26" y="0" name="bottom"/>
-  <anchor x="403.26" y="510" name="top"/>
-  <outline>
-    <component base="b" yScale="-1" yOffset="510"/>
-  </outline>
-</glyph>

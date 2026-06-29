@@ -22,5 +22,13 @@
       <string>THIN CND 24</string>
       <string>glyphs.T_H_I_N_ C_N_D_ 24</string>
     </array>
+    <array>
+      <string>XY Opaque Arches=-60</string>
+      <string>glyphs.X_Y_ O_paque A_rches=-60</string>
+    </array>
+    <array>
+      <string>XY Opaque Arches=30</string>
+      <string>glyphs.X_Y_ O_paque A_rches=30</string>
+    </array>
   </array>
 </plist>

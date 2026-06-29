@@ -6,6 +6,5 @@
   <anchor x="194" y="688" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="_tail.Q" xOffset="133" yOffset="-12"/>
   </outline>
 </glyph>

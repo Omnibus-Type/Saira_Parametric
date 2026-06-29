@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="leftOpenDialog" format="2">
-  <advance width="625"/>
-  <outline>
-    <component base="orn.017"/>
-    <component base="orn.016" xOffset="60"/>
-  </outline>
-</glyph>
