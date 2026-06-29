@@ -117,10 +117,10 @@
           <dimension name="Width" xvalue="25"/>
         </input>
         <output>
-          <dimension name="XTUD" xvalue="200"/>
-          <dimension name="XOPQ" xvalue="860"/>
-          <dimension name="YOPQ" xvalue="860"/>
-          <dimension name="XTSP" xvalue="125"/>
+          <dimension name="XOPQ" xvalue="700"/>
+          <dimension name="YOPQ" xvalue="800"/>
+          <dimension name="XTRA" xvalue="25"/>
+          <dimension name="XTSP" xvalue="80"/>
         </output>
       </mapping>
       <mapping description="Wght Max Wdth Max">
