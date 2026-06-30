@@ -167,6 +167,7 @@
           <dimension name="XTWS" xvalue="160"/>
           <dimension name="XTSP" xvalue="70"/>
           <dimension name="XTUD" xvalue="100"/>
+          <dimension name="XY Opaque Arches Left" xvalue="3"/>
         </output>
       </mapping>
       <mapping description="OpSz Max Wght Min">
