@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorn" format="2">
+  <advance width="598.56522"/>
+  <unicode hex="01B0"/>
+  <anchor x="430.957" y="510" name="_topright"/>
+  <anchor x="299.283" y="0" name="bottom"/>
+  <anchor x="299.283" y="510" name="top"/>
+  <anchor x="430.957" y="604.196" name="topright"/>
+  <outline>
+    <contour>
+      <point x="430.957" y="470.587" type="line"/>
+      <point x="497.022" y="470.587" type="line" smooth="yes"/>
+      <point x="594.457" y="470.587"/>
+      <point x="612.087" y="493.848"/>
+      <point x="612.087" y="580.543" type="curve" smooth="yes"/>
+      <point x="612.087" y="604.196" type="line"/>
+      <point x="553" y="604.196" type="line"/>
+      <point x="553" y="573" type="line" smooth="yes"/>
+      <point x="553" y="524"/>
+      <point x="546.913" y="510"/>
+      <point x="497.022" y="510" type="curve" smooth="yes"/>
+      <point x="430.957" y="510" type="line"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>3</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance width="670.43478"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="25.283" y="314.435" type="line"/>
+      <point x="602.609" y="314.435" type="line"/>
+      <point x="602.609" y="386.196" type="line"/>
+      <point x="25.283" y="386.196" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>3</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

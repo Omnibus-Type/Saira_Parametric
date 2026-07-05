@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="731.47826"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="12.565" y="324.761" type="line"/>
+      <point x="718.457" y="324.761" type="line"/>
+      <point x="718.457" y="378.043" type="line"/>
+      <point x="12.565" y="378.043" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>3</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

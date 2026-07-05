@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="210"/>
+  <unicode hex="2018"/>
+  <anchor x="0" y="0" name="#entry"/>
+  <anchor x="160" y="0" name="#exit"/>
+  <outline>
+    <component base="quotesinglbase" xScale="-1" yScale="-1" xOffset="210" yOffset="587"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>1</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

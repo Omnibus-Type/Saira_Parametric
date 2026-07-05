@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="502"/>
+  <unicode hex="0078"/>
+  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="248" y="510" name="top"/>
+  <outline>
+    <contour>
+      <point x="383" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="118" y="510" type="line"/>
+      <point x="20" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="482" y="510" type="line"/>
+      <point x="383" y="510" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>com.glyphsapp.glyph-color</key>
+        <integer>9</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
