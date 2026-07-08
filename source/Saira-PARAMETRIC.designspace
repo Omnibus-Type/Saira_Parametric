@@ -146,13 +146,13 @@
           <dimension name="Width" xvalue="150"/>
         </input>
         <output>
-          <dimension name="XTRA" xvalue="113"/>
           <dimension name="XOPQ" xvalue="170"/>
           <dimension name="YOPQ" xvalue="180"/>
           <dimension name="XTSP" xvalue="135"/>
-          <dimension name="XY Opaque Arches" xvalue="-7"/>
-          <dimension name="Y Transparency Lowercase Shoulder Join" xvalue="20"/>
+          <dimension name="XTRA" xvalue="113"/>
           <dimension name="XY Opaque Arches Left" xvalue="-14"/>
+          <dimension name="Y Transparency Lowercase Shoulder Join" xvalue="20"/>
+          <dimension name="XY Opaque Arches" xvalue="-7"/>
         </output>
       </mapping>
       <mapping description="Wght Min Wdth Min">
@@ -500,4 +500,17 @@
       </location>
     </source>
   </sources>
+  <lib>
+    <dict>
+      <key>xyz.fontra.cross-axis-mapping-info</key>
+      <array>
+        <dict>
+          <key>inactive</key>
+          <true/>
+          <key>index</key>
+          <integer>11</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </designspace>
