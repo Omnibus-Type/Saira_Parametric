@@ -5,7 +5,7 @@ This project explores the use of parametric axes and AVAR2 technology in an upda
 
 Omnibus-Type Team SIL Open Font License 1.1
 
-**1 Ago 2026 
+#1 Ago 2026
 
 The main directive following the last meeting was to focus solely on the numerals (0–9), redesigning them from scratch using a 2000-unit UPM scale.
 
@@ -31,5 +31,6 @@ Examples:
 
 Left: Saira Variable. | Right: Saira Parametric
 
-![Sample of Saira Parametric.](docs/01.png)
-![Sample of Saira Parametric.](docs/02.png)
+![Sample of Saira Parametric.](docs/_6.png)
+![Sample of Saira Parametric.](docs/_8.png)
+![Sample of Saira Parametric.](docs/_n.png)
