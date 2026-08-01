@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m" format="2">
+  <advance width="1980"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="834" y="1100" type="move"/>
+      <point x="620" y="1100"/>
+      <point x="500" y="1046"/>
+      <point x="446" y="928" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="1376"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="224" y="0" type="move"/>
+      <point x="364" y="0" type="line"/>
+      <point x="382" y="146" type="line"/>
+      <point x="390" y="146" type="line"/>
+    </contour>
+    <contour>
+      <point x="674" y="124" type="move"/>
+      <point x="456" y="124"/>
+      <point x="388" y="194"/>
+      <point x="388" y="422" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

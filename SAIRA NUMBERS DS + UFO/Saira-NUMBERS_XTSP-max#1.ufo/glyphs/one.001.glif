@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.001" format="2">
+  <advance width="1057"/>
+  <outline>
+    <contour>
+      <point x="585" y="0" type="line"/>
+      <point x="757" y="0" type="line"/>
+      <point x="757" y="1376" type="line"/>
+      <point x="635" y="1376" type="line"/>
+      <point x="300" y="1197" type="line"/>
+      <point x="300" y="1042" type="line"/>
+      <point x="585" y="1180" type="line"/>
+    </contour>
+  </outline>
+</glyph>

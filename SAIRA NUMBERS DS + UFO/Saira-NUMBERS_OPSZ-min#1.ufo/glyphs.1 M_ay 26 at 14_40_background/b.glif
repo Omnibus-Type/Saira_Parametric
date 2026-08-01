@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b" format="2">
+  <advance width="1270"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="256" y="0" type="move"/>
+      <point x="396" y="0" type="line"/>
+      <point x="414" y="146" type="line"/>
+      <point x="422" y="146" type="line"/>
+    </contour>
+    <contour>
+      <point x="706" y="124" type="move"/>
+      <point x="488" y="124"/>
+      <point x="420" y="194"/>
+      <point x="420" y="422" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
